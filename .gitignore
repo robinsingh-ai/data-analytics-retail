@@ -9,4 +9,4 @@ airflow-webserver.pid
 webserver_config.py
 airflow.cfg
 airflow.db
-/Users/robinsingh/Downloads/retail-analysis-big/include/gcp/service_account.json
+include/gcp
